@@ -1,0 +1,7 @@
+float cdlab2(float a, float b){return a+b}
+
+void CDLab(){cout<< "Hello everyone";}
+
+int CDLab1(int a)
+
+

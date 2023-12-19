@@ -1,3 +1,12 @@
+/*E  -> TE'  
+E'  -> +TE'| #  
+T  -> FT'  
+T'  -> *FT' | # 
+F  -> (E) | id | a | b 
+
+Write a C/C++ program to calculate the First set only.*/
+
+
 #include<iostream>
 #include<vector>
 #include<set>
